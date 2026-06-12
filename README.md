@@ -1,2 +1,7 @@
 # Width-and-height-win32
-C program that uses windows SDK to tell you what your screen width and height are.
+
+This simple program tells you your screen width and height, it also returns the width and height.
+
+Resources used:
+
+[codescratchpad.com](https://coderscratchpad.com/get-screen-dimensions-using-c-code-a-simple-guide/)
